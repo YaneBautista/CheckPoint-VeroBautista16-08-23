@@ -1,0 +1,155 @@
+Verónica@DESKTOP-10KI9BF MINGW64 ~
+$ cd desktop
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop
+$ mkdir CheckPoint-VeroBautista16-08-23
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop
+$ cd CheckPoint-VeroBautista16-08-23
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23
+$ git init
+Initialized empty Git repository in C:/Users/Verónica/Desktop/CheckPoint-VeroBautista16-08-23/.git/
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (master)
+$ git remote add origin https://github.com/YaneBautista/CheckPoint-VeroBautista16-08-23.git
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (master)
+$ touch main.js
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (master)
+$ touch index.html
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (master)
+$ git add .
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (master)
+$ git commit -m "commit 01 Vero Bautista"
+[master (root-commit) af686af] commit 01 Vero Bautista
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 index.html
+ create mode 100644 main.js
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (master)
+$ git push origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/YaneBautista/CheckPoint-VeroBautista16-08-23
+.git'
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (master)
+$ git branch -M main
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (main)
+$ git push origin main
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 251 bytes | 125.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/YaneBautista/CheckPoint-VeroBautista16-08-23.git
+ * [new branch]      main -> main
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (main)
+$ git branch feature
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (main)
+$ git checkout feature
+Switched to branch 'feature'
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (feature)
+$ mkdir Hardware
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (feature)
+$ mkdir Software
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (feature)
+$ mkdir seguridadInformatica
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (feature)
+$ cd hardware
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23/hardware (feature)
+$ touch resumen.txt
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23/hardware (feature)
+$ cd software
+bash: cd: software: No such file or directory
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23/hardware (feature)
+$ cd
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~
+$ cd desktop/CheckPoint-VeroBautista16-08-23/software
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23/software (feature)
+$ touch resumen.txt
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23/software (feature)
+$ cd ..
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (feature)
+$ cd seguridadInformatica
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23/seguridadInformatica (feature)
+$ touch resumen.txt
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23/seguridadInformatica (feature)
+$ cd ..
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (feature)
+$ git add .
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (feature)
+$ git commit -m "commit 02 Vero Bautista"
+[feature aac7bea] commit 02 Vero Bautista
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Hardware/resumen.txt
+ create mode 100644 Software/resumen.txt
+ create mode 100644 seguridadInformatica/resumen.txt
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (feature)
+$ git push origin feature
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 394 bytes | 131.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+remote:
+remote: Create a pull request for 'feature' on GitHub by visiting:
+remote:      https://github.com/YaneBautista/CheckPoint-VeroBautista16-08-23/pull/new/feature
+remote:
+To https://github.com/YaneBautista/CheckPoint-VeroBautista16-08-23.git
+ * [new branch]      feature -> feature
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (feature)
+$ git checkout main
+Switched to branch 'main'
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (main)
+$ mv main.js resumenHardware.txt
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (main)
+$ mv index.html resumenSoftware.txt
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (main)
+$
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (main)
+$ echo -e "Red hat \n Microsoft windows \n Debian" >> resumenSoftware.txt
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (main)
+$ echo -e "Ram \n Rom \n Cache" >> resumenHardware.txt
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (main)
+$ touch comandos.txt
+
+Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (main)
+$
