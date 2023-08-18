@@ -1,155 +1,324 @@
-Verónica@DESKTOP-10KI9BF MINGW64 ~
-$ cd desktop
+$ history
+    1  mkdir informes
+    2  mkdir informes
+    3  cd informes
+    4  touch informeAnual.xls
+    5  ls
+    6  mkdir auditoria
+    7  touch auditoria.xls
+    8  touch reporteConsolidado.xls
+    9  ls
+   10  mv auditoria.xls/auditoria
+   11  cd auditoria
+   12  ls
+   13  cd informes
+   14  ls
+   15  cd informes
+   16  ls
+   17  cd informes
+   18  cd informe
+   19  cd .
+   20  cd..
+   21  cd informes ..
+   22  ls-r
+   23  ls -r
+   24  cd ussers/Veronica/informes
+   25  cd ussers/Verónica/informes
+   26  cd informes
+   27  ls
+   28  mv auditoria.xls/auditoria
+   29  mv auditoria.xls
+   30  mv auditoria.xls/auditoria
+   31  mv auditoria.xls/informes/auditoria
+   32  mv auditoria.xls
+   33  mv auditoria/auditoia.xls
+   34  mv auditoria/auditoria.xls
+   35  ls
+   36  ls -R
+   37  git --version
+   38  desktop
+   39  git--version
+   40  git --version
+   41  PracticasGit
+   42  desktop/PracticasGit
+   43  c/desktop/PracticasGit
+   44  c/veronicadesktop/PracticasGit
+   45  c/user/veronicadesktop/PracticasGit
+   46  c;/users/verónica/Desktop/PracticaGit
+   47  c:/users/verónica/Desktop/PracticaGit
+   48  PracticaGit
+   49  c/users/verónica/Desktop/PracticaGit
+   50  desktop/PracticaGit
+   51  c/users/verónica/Desktop-10ki9bf/PracticaGit
+   52  desktop/PracticaGit
+   53  cd PracticasGit
+   54  cd desktop/PracticasGit
+   55  cd desktop/PracticaGit
+   56  git init
+   57  git branch -m main
+   58  touch index.html
+   59  git add index.html
+   60  git commit -m "agregando index"
+   61  rm index.html
+   62  ls
+   63  touch repositorio.md
+   64  git config user.name "YaneButista"
+   65  git config user.name "YaneButista"
+   66  git config user.email"yane16br@gmail.com"
+   67  git commit -m "agregando repositorio"
+   68  git config --global user.email"yane16br@gmail.com"
+   69  ls
+   70  git clon https://
+   71  git clon https:// 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@ github.com/YaneBautista/camada03.git
+   72  git add repositorio.md
+   73  ls
+   74  cd desktop/PracticaGit
+   75  git remote -v
+   76  git remote add origin https://github.com/YaneBautista/camada03.git
+   77  git remote -v
+   78  git push origin master
+   79  git status
+   80  git add repositorio.md
+   81  git commit -m
+   82  git commit -m main
+   83  git config --global user.name"
+   84  "
+   85  git config --global user.name"https://github.com/YaneBautista"
+   86  git config --global user.name ´https://github.com/YaneBautista´
+   87  git config --global user.email´yane16br@gmail.com´
+   88  git config --global user.email"yane16br@gmail.com"
+   89  git push origin master
+   90  git push origin main
+   91  clear
+   92  cd desktop
+   93  cd..
+   94  cd desktop
+   95  touch practica
+   96  cd desktop/practica
+   97  ls
+   98  practica
+   99  cd desktop
+  100  mkdir repo
+  101  cd repo
+  102  git init
+  103  touch app.js
+  104  git status
+  105  git add app.js
+  106  git status
+  107  git commit -m "subiendo primer archivo"
+  108  git status
+  109  git branch main
+  110  git branch -m main
+  111  git status
+  112  git add.
+  113  git commit -m "guardando "
+  114  git config --global user.email"yane16br@gmail.com"
+  115  git config user.name "YaneBautista"
+  116  git status
+  117  git commit -m "guardando archivo"
+  118  clear
+  119  cd ..
+  120  mkdir mercadoAbierto
+  121  cd
+  122  cd /desktop/mercadoabierto
+  123  cd desktop
+  124  cd mercadoabierto
+  125  git init
+  126  touch producto.js
+  127  git status
+  128  git add producto.js
+  129  git status
+  130  git commit-m "mi primer commit"
+  131  git status
+  132  git commit -m "mi primer commit"
+  133  git config user.name "Veronica"
+  134  git config user.email "yane16br@gmail.com
+  135  git config user.email "yane16br@gmail.com"
+  136  git status
+  137  clear
+  138  cd desktop/practica
+  139  git init
+  140  git config user.name
+  141  git config user.email
+  142  git config user.email"yane16br@gmail.com"
+  143  git config user.email
+  144  git config --global user.email"yane16br@gmail.com"
+  145  git config user.email
+  146  cd desktop
+  147  cd
+  148  cd desktop
+  149  git config --global user.email "yane16br@gmail.com"
+  150  cd practica
+  151  git status
+  152  git config user.name
+  153  git  config user.email
+  154  touch repositorio.md
+  155  git remote add origin https://github.com/YaneBautista/camada03.git
+  156  git remote -v
+  157  git add repositorio.md
+  158  git commit -m"primer repositorio"
+  159  git push origin main
+  160  git push origin master
+  161  git branch -m main
+  162  git remote add origin https://github.com/YaneBautista/practica01.git
+  163  git push origin master
+  164  cd desktop
+  165  cd practica
+  166  git push origin master
+  167  git status
+  168  git log
+  169  git push origin master
+  170  git remote add origin https://github.com/YaneBautista/practica01.git
+  171  cd desktop
+  172  cdPracticaGit
+  173  cd PracticaGit
+  174  git remote origin https://github.com/YaneBautista/practica01.git
+  175  git push origin main
+  176  git remote -v
+  177  git remote origin https://github.com/YaneBautista/practica01.git
+  178  cd desktop/practica
+  179  touch repositorio1
+  180  git status
+  181  git status
+  182  git add repositorio1
+  183  git commit -m "repositorio"
+  184  git remote -v
+  185  git push origin master
+  186  git push origin main
+  187  git push origin master
+  188  git push origin master
+  189  git push origin main
+  190  git push origin master
+  191  git status
+  192  git remote -v
+  193  clear
+  194  cd
+  195  git clone https://github.com/YaneBautista/practicaIntegradora.git
+  196  git init
+  197  cd
+  198  cd desktop
+  199  cd practicaintegradora
+  200  git init
+  201  git add .
+  202  git commit -m"insertando emojis"
+  203  git push origin main
+  204  git add index.html
+  205  git commit -m"agregando index"
+  206  git push origin main
+  207  git pull origen main
+  208  git pull origin main
+  209  git add .
+  210  git push origin main
+  211  git pull origin main
+  212  git add .
+  213  git push origin main
+  214  git commit -m"modificando index"
+  215  git push origin main
+  216  git pull origin main
+  217  git add index.html
+  218  git commit -m"agregando h2"
+  219  git push origin main
+  220  git pull origin main
+  221  git add index.html
+  222  git commit -m"resolviendo conflicto 2"
+  223  git push origin main
+  224  git branch rama1
+  225  git checkout rama1
+  226  git add rama.html
+  227  git commit -m"agregando rama"
+  228  git push origin rama1
+  229  git checkout main
+  230  git add README.md
+  231  git commit -m"agregando integrantes"
+  232  git push origin main
+  233  git add README.md
+  234  git commit -m"modificando"
+  235  git push origin main
+  236  cd desktop
+  237  cd desktop
+  238  cd desktop
+  239  ls-al
+  240  ls -al
+  241  rm -rf .git
+  242  ls -al
+  243  git desktop
+  244  desktop
+  245  cd desktop
+  246  mkdir "mercadoAbierto"
+  247  cd mercadoAbierto
+  248  touch productos.js
+  249  git status
+  250  git add productos.js
+  251  git status
+  252  git commit -m "mi primer comit"
+  253  git status
+  254  cd desktop
+  255  mkdir "mercadoAbierto"
+  256  cd mercado abierto
+  257  mercado abierto
+  258  cd mercadoAbierto
+  259  git init
+  260  touch productos.js
+  261  git status
+  262  git clone https://github.com/YaneBautista/prueba.git
+  263  cd prueba
+  264  touch app.js
+  265  git status
+  266  git add app.js
+  267  git status
+  268  git commit -m "mi primer commit"
+  269  git status
+  270  git push origin main
+  271  git status
+  272  clean
+  273  cd desktop
+  274  mkdir CheckPoint-VeroBautista16-08-23
+  275  cd CheckPoint-VeroBautista16-08-23
+  276  git init
+  277  git remote add origin https://github.com/YaneBautista/CheckPoint-VeroBautista16-08-23.git
+  278  git status
+  279  touch main.js
+  280  touch index.html
+  281  git add .
+  282  git commit -m "commit 01 Vero Bautista"
+  283  git push origin main
+  284  git branch -M main
+  285  git push origin main
+  286  git branch feature
+  287  git checkout feature
+  288  mkdir Hardware
+  289  mkdir Software
+  290  mkdir seguridadInformatica
+  291  cd hardware
+  292  touch resumen.txt
+  293  cd software
+  294  cd
+  295  cd desktop/CheckPoint-VeroBautista16-08-23/software
+  296  touch resumen.txt
+  297  cd ..
+  298  cd seguridadInformatica
+  299  touch resumen.txt
+  300  cd ..
+  301  git add .
+  302  git commit -m "commit 02 Vero Bautista"
+  303  git push origin feature
+  304  git checkout main
+  305  mv main.js resumenHardware.txt
+  306  mv index.html resumenSoftware.txt
+  307  $ echo -e "Red hat \n Microsoft windows \n Debian" >> resumenSoftware.txt
+  308  echo -e "Red hat \n Microsoft windows \n Debian" >> resumenSoftware.txt
+  309  echo -e "Ram \n Rom \n Cache >> resumenHardware.txt
 
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop
-$ mkdir CheckPoint-VeroBautista16-08-23
 
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop
-$ cd CheckPoint-VeroBautista16-08-23
+echo -e "Ram \nRom\nCache" >> resumenHarware.txt
 
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23
-$ git init
-Initialized empty Git repository in C:/Users/Verónica/Desktop/CheckPoint-VeroBautista16-08-23/.git/
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (master)
-$ git remote add origin https://github.com/YaneBautista/CheckPoint-VeroBautista16-08-23.git
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (master)
-$ git status
-On branch master
-
-No commits yet
-
-nothing to commit (create/copy files and use "git add" to track)
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (master)
-$ touch main.js
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (master)
-$ touch index.html
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (master)
-$ git add .
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (master)
-$ git commit -m "commit 01 Vero Bautista"
-[master (root-commit) af686af] commit 01 Vero Bautista
- 2 files changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 index.html
- create mode 100644 main.js
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (master)
-$ git push origin main
-error: src refspec main does not match any
-error: failed to push some refs to 'https://github.com/YaneBautista/CheckPoint-VeroBautista16-08-23
-.git'
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (master)
-$ git branch -M main
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (main)
-$ git push origin main
-Enumerating objects: 3, done.
-Counting objects: 100% (3/3), done.
-Delta compression using up to 4 threads
-Compressing objects: 100% (2/2), done.
-Writing objects: 100% (3/3), 251 bytes | 125.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
-To https://github.com/YaneBautista/CheckPoint-VeroBautista16-08-23.git
- * [new branch]      main -> main
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (main)
-$ git branch feature
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (main)
-$ git checkout feature
-Switched to branch 'feature'
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (feature)
-$ mkdir Hardware
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (feature)
-$ mkdir Software
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (feature)
-$ mkdir seguridadInformatica
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (feature)
-$ cd hardware
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23/hardware (feature)
-$ touch resumen.txt
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23/hardware (feature)
-$ cd software
-bash: cd: software: No such file or directory
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23/hardware (feature)
-$ cd
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~
-$ cd desktop/CheckPoint-VeroBautista16-08-23/software
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23/software (feature)
-$ touch resumen.txt
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23/software (feature)
-$ cd ..
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (feature)
-$ cd seguridadInformatica
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23/seguridadInformatica (feature)
-$ touch resumen.txt
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23/seguridadInformatica (feature)
-$ cd ..
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (feature)
-$ git add .
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (feature)
-$ git commit -m "commit 02 Vero Bautista"
-[feature aac7bea] commit 02 Vero Bautista
- 3 files changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 Hardware/resumen.txt
- create mode 100644 Software/resumen.txt
- create mode 100644 seguridadInformatica/resumen.txt
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (feature)
-$ git push origin feature
-Enumerating objects: 4, done.
-Counting objects: 100% (4/4), done.
-Delta compression using up to 4 threads
-Compressing objects: 100% (2/2), done.
-Writing objects: 100% (3/3), 394 bytes | 131.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
-remote:
-remote: Create a pull request for 'feature' on GitHub by visiting:
-remote:      https://github.com/YaneBautista/CheckPoint-VeroBautista16-08-23/pull/new/feature
-remote:
-To https://github.com/YaneBautista/CheckPoint-VeroBautista16-08-23.git
- * [new branch]      feature -> feature
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (feature)
-$ git checkout main
-Switched to branch 'main'
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (main)
-$ mv main.js resumenHardware.txt
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (main)
-$ mv index.html resumenSoftware.txt
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (main)
-$
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (main)
-$ echo -e "Red hat \n Microsoft windows \n Debian" >> resumenSoftware.txt
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (main)
-$ echo -e "Ram \n Rom \n Cache" >> resumenHardware.txt
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (main)
-$ touch comandos.txt
-
-Verónica@DESKTOP-10KI9BF MINGW64 ~/desktop/CheckPoint-VeroBautista16-08-23 (main)
-$
+:
+  310  echo -e "Ram \n Rom \n Cache" >> resumenHardware.txt
+  311  touch comandos.txt
+  312  git add.
+  313  commit -m "commit 03 Vero Bautista"
+  314  git push origin main
+  315  git add .
+  316  git commit -m "commit 03 Vero Bautista"
+  317  git push origin main
+  318  history
